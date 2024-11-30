@@ -2,23 +2,36 @@
 
 ## Rust and Rust-variants
 
-| Project              | Project review type           | Date              | Review type         | Result          |
-|----------------------|-------------------------------|-------------------|---------------------|-----------------|
-
-
-
-## Solidity and EVM
-
-| Project              | Project review type | Date              | Review type         | Result                                                                    |
-|----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
-
+| Project              | Project review type           | Date              | Review type         | Result          | Sloc              |
+|----------------------|-------------------------------|-------------------|---------------------|-----------------|-------------------|
+| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract - Dex       |  December 2024      | Code4rena Contest   | Ongoing | 22268 |
 
 
 
 ## Go
 
-| Project              | Project review type | Date              | Review type         | Result                                                                    |
-|----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|
+| Project              | Project review type | Date              | Review type         | Result                                                                    |Sloc              |
+|----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|------------------|
+| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing | 42898 |
+
+
+
+## Solidity and EVM
+
+| Project              | Project review type | Date              | Review type         | Result                                                                    |Sloc              |
+|----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|------------------|
+| Ethereum Protocol | Infrastructure         | December-January 2024   | Immunifi-Attackathon | _ | TBD |
+| Sorella Labs-Angstrom| Smart contract      | November 2024    | Cantina Competition | TBD | 2432 |
+| InfinityPools        | Smart contract      | October 2024    | Cantina Competition | TBD | 8000 |
+| Panoptic             | Smart contract      | October 2024    | Cantina Competition | N/A | 4707 |
+| SymbioticFi          | Smart contract      | September 2024    | Cantina Competition | N/A| 2509 |
+| Zerolend One         | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 28th](https://audits.sherlock.xyz/contests/466/leaderboard) | 3,027 |
+| Winnables Raffles    | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 38th ](https://audits.sherlock.xyz/contests/516/leaderboard) | 781 |
+| Tadle                | Smart contract      | August 2024        | CodeHawks Competition | N/A | 1,229 |
+| LoopFi               | Smart contract      | July 2024         | Code4arena audit       | [Rank: 58th](https://code4rena.com/audits/2024-07-loopfi) | 4,562 |
+| RadicalxChange       | Smart contract      | March 2024        | Sherlock Contest | [Rank: 3rd 🥉](https://x.com/sherlockdefi/status/1783562986428268607)| 592 |
+| Napier               | Smart contract      | February 2024      | Sherlock Contest | [Rank: 9th](https://x.com/sherlockdefi/status/1771852618324664377) | 2,050 |
+
 
 
 
@@ -27,7 +40,7 @@
 
 | Project                             | Type         | Date                    | Link                                    |
 |-------------------------------------|--------------|-------------------------|-----------------------------------------|
-| Smart Contract Development          | Vyper    | January 2024   | [Vyper-Smart-Contract-Development](https://github.com/this-vishalsingh/moccasin-full-course-cu) |
+| Python & Vyper Smart Contract Development          | Vyper    | November 2024   | [Vyper-Smart-Contract-Development](https://github.com/this-vishalsingh/moccasin-full-course-cu) |
 | Uniswap V4                          | AMM          | October                 | N/A |
 | Uniswap V3 DevelomentBook           | AMM          |  October  2024          | [Rareskills-Comound-v3-Book](https://uniswapv3book.com/) |
 | Uniswap V2 Development Book         | AMM          | October 2024            | [Rareskills-Comound-v3-Book](https://www.rareskills.io/uniswap-v2-book) |
