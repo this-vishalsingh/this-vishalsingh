@@ -25,6 +25,7 @@
 | InfinityPools        | Smart contract      | October 2024    | Cantina Competition | TBD | 8000 |
 | Panoptic             | Smart contract      | October 2024    | Cantina Competition | N/A | 4707 |
 | SymbioticFi          | Smart contract      | September 2024    | Cantina Competition | N/A| 2509 |
+| Decent - 0ft4626     | Smart contract      | September 2024     | Cantina Private audit       | N/A      | N/A|
 | Zerolend One         | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 28th](https://audits.sherlock.xyz/contests/466/leaderboard) | 3,027 |
 | Winnables Raffles    | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 38th ](https://audits.sherlock.xyz/contests/516/leaderboard) | 781 |
 | Tadle                | Smart contract      | August 2024        | CodeHawks Competition | N/A | 1,229 |
