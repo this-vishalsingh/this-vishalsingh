@@ -2,37 +2,40 @@
 
 ## Rust and Rust-variants
 
-| Project              | Project review type           | Date              | Review type         | Result          | Sloc              |
-|----------------------|-------------------------------|-------------------|---------------------|-----------------|-------------------|
-| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract - Dex       |  December 2024      | Code4rena Contest   | Ongoing | 22268 |
+| Project              | Project review type           | Date              | Review type         | Result  | Report        | Sloc              |
+|----------------------|-------------------------------|-------------------|---------------------|-----------------|---------|----------|
+| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract - Dex       |  December 2024      | Code4rena Contest   | Ongoing |  | 22268 |
 
 
 
 ## Go
 
-| Project              | Project review type | Date              | Review type         | Result                                                                    |Sloc              |
-|----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|------------------|
-| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing | 42898 |
+| Project              | Project review type | Date              | Review type         | Result          | Report             |Sloc              |
+|----------------------|---------------------|-------------------|---------------------|-------------------|--------------------------------------------|------------------|
+| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing | | 42898 |
 
 
 
 ## Solidity and EVM
 
-| Project              | Project review type | Date              | Review type         | Result                                                                    |Sloc              |
-|----------------------|---------------------|-------------------|---------------------|---------------------------------------------------------------------------|------------------|
-| Ethereum Protocol | Infrastructure         | December-January 2024   | Immunifi-Attackathon | _ | TBD |
-| Sorella Labs-Angstrom| Smart contract      | November 2024    | Cantina Competition | TBD | 2432 |
-| InfinityPools        | Smart contract      | October 2024    | Cantina Competition | TBD | 8000 |
-| Panoptic             | Smart contract      | October 2024    | Cantina Competition | N/A | 4707 |
-| SymbioticFi          | Smart contract      | September 2024    | Cantina Competition | N/A| 2509 |
-| Decent - 0ft4626     | Smart contract      | September 2024     | Cantina Private audit       | N/A      | N/A|
-| Zerolend One         | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 28th](https://audits.sherlock.xyz/contests/466/leaderboard) | 3,027 |
-| Winnables Raffles    | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 38th ](https://audits.sherlock.xyz/contests/516/leaderboard) | 781 |
-| Tadle                | Smart contract      | August 2024        | CodeHawks Competition | N/A | 1,229 |
-| LoopFi               | Smart contract      | July 2024         | Code4arena audit       | [Rank: 58th](https://code4rena.com/audits/2024-07-loopfi) | 4,562 |
-| RadicalxChange       | Smart contract      | March 2024        | Sherlock Contest | [Rank: 3rd 🥉](https://x.com/sherlockdefi/status/1783562986428268607)| 592 |
-| Napier               | Smart contract      | February 2024      | Sherlock Contest | [Rank: 9th](https://x.com/sherlockdefi/status/1771852618324664377) | 2,050 |
-
+| Project              | Project review type | Date              | Review type         | Result             | Report                                 |Sloc              |
+|----------------------|---------------------|-------------------|---------------------|--------------------|----------------------------------------|------------------|
+| Ethereum Protocol | Infrastructure         | December-January 2024   | Immunifi-Attackathon | _ |[📄]() | TBD |
+| Sorella Labs-Angstrom| Smart contract      | November 2024    | Cantina Competition | TBD |[📄]() | 2432 |
+| InfinityPools        | Smart contract      | October 2024    | Cantina Competition | TBD | [📄]()| 8000 |
+| Panoptic             | Smart contract      | October 2024    | Cantina Competition | N/A |[📄]() | 4707 |
+| SymbioticFi          | Smart contract      | September 2024    | Cantina Competition | N/A| [📄]() | 2509 |
+| Decent - 0ft4626     | Smart contract      | September 2024     | Cantina Private audit       | N/A      | [📄]() | N/A|
+| Zerolend One         | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 28th](https://audits.sherlock.xyz/contests/466/leaderboard) | [📄]() | 3,027 |
+| Winnables Raffles    | Smart contract      | August 2024        | Sherlock Contest    | [Rank: 38th ](https://audits.sherlock.xyz/contests/516/leaderboard) | [📄]() | 781 |
+| Tadle                | Smart contract      | August 2024        | CodeHawks Competition | N/A | | 1,229 |
+| LoopFi               | Smart contract      | July 2024         | Code4arena audit       | [Rank: 58th](https://code4rena.com/audits/2024-07-loopfi) | [📄]()| 4,562 |
+| RadicalxChange       | Smart contract      | March 2024        | Sherlock Contest | [Rank: 3rd 🥉](https://x.com/sherlockdefi/status/1783562986428268607)| [📄]()| 592 |
+| Napier               | Smart contract      | February 2024      | Sherlock Contest | [Rank: 9th](https://x.com/sherlockdefi/status/1771852618324664377) | [📄]() |2,050 |
+| ThunderLoan          | Smart Contract      | February         | CodeHawks | _ |[📄](reports/Thunder-Loan.md) | 755 |
+| TSwap                | Smart Contract      | February         | CodeHawks | _ |[📄](reports/TSwap.md) | 542 |
+| Puppy Raffle         | Smart Contract      | February         | CodeHawks | _ |[📄](reports/PuppyRaffle.md) | 216 |
+| PasswordStore        | Smart Contract      | February         | CodeHawks | _ |[📄](reports/PasswordStore.md) | 41 |
 
 
 
