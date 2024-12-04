@@ -1,4 +1,11 @@
 # Portfolio
+## Intro
+I'm a smart contract security researcher highly passionate about smart contract security with proven track record of consistently uncovering vulnerabilities in wide specturm of DeFi protocols and performing at multiple audit contests. Before auditing smart contracts, I studied C, Python, Java, Web-Dev for open-source contribution, and during the journey started learning Smart Contract Development & Security. I've experience in ERC20, ERC721, ERC4626, ERC4337, Lending, AMMs, Proxies, Staking, Restaking, EVM. I am proficient in auditing code in Solidity and am trying to add more frameworks to my portfolio in the future.
+
+#### Background
+Currently studing Electronics & Communication Engineering from India. I like maths, physics.
+
+#### Contact me via [X](https://x.com/thisvishalsingh), [Email](mailto:vishal.t.a.k.singh@gmail.com), [Telegram](https://t.me/thisvishalsingh), or via [Linkedin](https://www.linkedin.com/in/vishal-kumar-singh-073aa3222/).
 
 ## Rust and Rust-variants
 
