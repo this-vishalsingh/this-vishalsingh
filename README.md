@@ -53,6 +53,7 @@ Currently studing Electronics & Communication Engineering from India. I like mat
 
 | Project                             | Type         | Date                    | Link                                    |
 |-------------------------------------|--------------|-------------------------|-----------------------------------------|
+| Tara V1                             | Lending      |  December 2024            | Currently Building the protocol |
 | Python & Vyper Smart Contract Development          | Vyper    | November 2024   | [Vyper-Smart-Contract-Development](https://github.com/this-vishalsingh/moccasin-full-course-cu) |
 | Uniswap V4                          | AMM          | October                 | N/A |
 | Uniswap V3 DevelomentBook           | AMM          |  October  2024          | [Rareskills-Comound-v3-Book](https://uniswapv3book.com/) |
