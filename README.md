@@ -29,7 +29,8 @@ Currently studing Electronics & Communication Engineering from India. I like mat
 
 | Project              | Project review type | Date              | Review type         | Result             | Report                                 |Sloc              |
 |----------------------|---------------------|-------------------|---------------------|--------------------|----------------------------------------|------------------|
-| Ethereum Protocol | Infrastructure         | December-January 2024   | Immunifi-Attackathon | _ |[📄]() | TBD |
+| Ethereum Protocol    | Infrastructure      | December-January 2024   | Immunifi-Attackathon | _ |[📄]() | TBD |
+| Collar Protocol Core | Smart contract      | December 2024    | Cantina Competition | TBD |[📄]() | 1469 |
 | Sorella Labs-Angstrom| Smart contract      | November 2024    | Cantina Competition | TBD |[📄]() | 2432 |
 | InfinityPools        | Smart contract      | October 2024    | Cantina Competition | TBD | [📄]()| 8000 |
 | Panoptic             | Smart contract      | October 2024    | Cantina Competition | N/A |[📄]() | 4707 |
