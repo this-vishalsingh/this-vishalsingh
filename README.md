@@ -13,7 +13,7 @@ Currently studing Electronics & Communication Engineering from India. I like mat
 
 | Project              | Project review type           | Date              | Review type         | Result  | Report        | Sloc              |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|---------|----------|
-| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract - Dex       |  December 2024      | Code4rena Contest   | Ongoing |  | 22268 |
+| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract       |  December 2024      | Code4rena Contest   | Ongoing   | | 22268 |
 
 
 
@@ -21,7 +21,7 @@ Currently studing Electronics & Communication Engineering from India. I like mat
 
 | Project              | Project review type | Date              | Review type         | Result          | Report             |Sloc              |
 |----------------------|---------------------|-------------------|---------------------|-------------------|--------------------------------------------|------------------|
-| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing | | 42898 |
+| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing  | |42898 |
 
 
 
@@ -30,6 +30,7 @@ Currently studing Electronics & Communication Engineering from India. I like mat
 | Project              | Project review type | Date              | Review type         | Result             | Report                                 |Sloc              |
 |----------------------|---------------------|-------------------|---------------------|--------------------|----------------------------------------|------------------|
 | Ethereum Protocol    | Infrastructure      | December-January 2024   | Immunifi-Attackathon | _ |[📄]() | TBD |
+| [Chainlink Payment Abstraction](https://github.com/code-423n4/2024-12-chainlink) | Smart contract      |  December 2024      | Code4rena Contest   | _  | _ | 1217 |
 | Collar Protocol Core | Smart contract      | December 2024    | Cantina Competition | TBD |[📄]() | 1469 |
 | Sorella Labs-Angstrom| Smart contract-AMM  | November 2024    | Cantina Competition | TBD |[📄]() | 2432 |
 | InfinityPools        | Smart contract-AMM  | October 2024    | Cantina Competition | TBD | [📄]()| 8000 |
