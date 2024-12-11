@@ -33,7 +33,7 @@ Currently studing Electronics & Communication Engineering from India. I like mat
 | [Chainlink Payment Abstraction](https://github.com/code-423n4/2024-12-chainlink) | Smart contract      |  December 2024      | Code4rena Contest   | _  | _ | 1217 |
 | Collar Protocol Core | Smart contract      | December 2024    | Cantina Competition | TBD |[📄]() | 1469 |
 | Sorella Labs-Angstrom| Smart contract-AMM  | November 2024    | Cantina Competition | TBD |[📄]() | 2432 |
-| InfinityPools        | Smart contract-AMM  | October 2024    | Cantina Competition | TBD | [📄]()| 8000 |
+| InfinityPools        | Smart contract-AMM  | October 2024    | Cantina Competition | 14/395 | [📄]()| 8000 |
 | Panoptic             | Smart contract-AMM  | October 2024    | Cantina Competition | N/A |[📄]() | 4707 |
 | SymbioticFi          | Smart contract-Restaking   | September 2024    | Cantina Competition | N/A| [📄]() | 2509 |
 | Decent - 0ft4626     | Smart contract-Cross Chain | September 2024     | Cantina Private audit       | N/A      | [📄]() | N/A|
