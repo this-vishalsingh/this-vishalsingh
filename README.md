@@ -8,16 +8,18 @@ I've experience in ERC20, ERC721, [ERC4626](https://github.com/this-vishalsingh/
 Currently studing Electronics & Communication Engineering from India. I like maths, physics.
 
 ### Top Protocols Secured
+- [Zerolend](https://zerolend.xyz/)
+- [Napier](https://x.com/NapierFinance)
+- [StakeUp](https://x.com/StakeUpProtocol)
 - [Sorella Labs](https://sorellalabs.xyz/)
 - [InfinityPools](https://x.com/InfPools)
 - [Panoptic](https://panoptic.xyz/)
-- [Zerolend](https://zerolend.xyz/)
 - [LoopFi](https://www.loopfi.xyz/)
-- [Napier](https://x.com/NapierFinance)
 - [Decent](https://x.com/decentxyz)
 - [RadicalxChange](https://x.com/RadxChange)
 
-#### Contact me via [X](https://x.com/thisvishalsingh), [Email](mailto:vishal.t.a.k.singh@gmail.com), [Telegram](https://t.me/thisvishalsingh), or via [Linkedin](https://www.linkedin.com/in/vishal-kumar-singh-073aa3222/).
+#### Contact me via 
+![Discord](https://img.shields.io/badge/Discord-thisvishalsingh-7289DA?logo=discord&logoColor=white), [X](https://x.com/thisvishalsingh), [Email](mailto:vishal.t.a.k.singh@gmail.com), [Telegram](https://t.me/thisvishalsingh), or via [Linkedin](https://www.linkedin.com/in/vishal-kumar-singh-073aa3222/).
 
 ## Rust and Rust-variants
 
@@ -43,6 +45,7 @@ Currently studing Electronics & Communication Engineering from India. I like mat
 | [Chainlink Payment Abstraction](https://github.com/code-423n4/2024-12-chainlink) | Smart contract      |  December 2024      | Code4rena Contest   | _  | _ | 1217 |
 | Collar Protocol Core | Smart contract      | December 2024    | Cantina Competition | TBD |[📄]() | 1469 |
 | Sorella Labs-Angstrom| Smart contract-AMM  | November 2024    | Cantina Competition | TBD |[📄]() | 2432 |
+| StakeUp        | Smart contract  | October 2024    | Cantina Competition | [42/363](https://x.com/thisvishalsingh/status/1868198288647967113) | [📄](reports/StakeUp.md)| 2056 |
 | InfinityPools        | Smart contract-AMM  | October 2024    | Cantina Competition | [14/395](https://x.com/thisvishalsingh/status/1866774535057612971?t=RqzGvcbHNZzFTsxmeJyTkg&s=19) | [📄](reports/InfinityPools.md)| 8000 |
 | Panoptic             | Smart contract-AMM  | October 2024    | Cantina Competition | N/A |[📄]() | 4707 |
 | SymbioticFi          | Smart contract-Restaking   | September 2024    | Cantina Competition | N/A| [📄]() | 2509 |
