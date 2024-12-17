@@ -25,7 +25,7 @@ Currently studying Electronics & Communication Engineering from India. I like ma
 
 | Project              | Project review type           | Date              | Review type         | Result  | Report        | Sloc              |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|---------|----------|
-| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract       |  December 2024      | Code4rena Contest   | Ongoing   | | 22268 |
+| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract       |  December 2024      | Code4rena Contest   | Ongoing   |_ | 22268 |
 
 
 
@@ -33,7 +33,7 @@ Currently studying Electronics & Communication Engineering from India. I like ma
 
 | Project              | Project review type | Date              | Review type         | Result          | Report             |Sloc              |
 |----------------------|---------------------|-------------------|---------------------|-------------------|--------------------------------------------|------------------|
-| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing  | |42898 |
+| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing  | _|42898 |
 
 
 
