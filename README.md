@@ -44,7 +44,7 @@ Currently studying Electronics & Communication Engineering from India. I like ma
 | Ethereum Protocol    | Infrastructure      | December-January 2024   | Immunifi-Attackathon | _ |[📄]() | TBD |
 | [Chainlink Payment Abstraction](https://github.com/code-423n4/2024-12-chainlink) | Smart contract      |  December 2024      | Code4rena Contest   | _  | _ | 1217 |
 | Collar Protocol Core | Smart contract      | December 2024    | Cantina Competition | TBD |[📄]() | 1469 |
-| Sorella Labs-Angstrom| Smart contract-AMM  | November 2024    | Cantina Competition | TBD |[📄]() | 2432 |
+| Sorella Labs-Angstrom| Smart contract-AMM  | November 2024    | Cantina Competition | 5/303 |[📄]() | 2432 |
 | StakeUp        | Smart contract  | October 2024    | Cantina Competition | [42/363](https://x.com/thisvishalsingh/status/1868198288647967113) | [📄](reports/StakeUp.md)| 2056 |
 | InfinityPools        | Smart contract-AMM  | October 2024    | Cantina Competition | [14/395](https://x.com/thisvishalsingh/status/1866774535057612971?t=RqzGvcbHNZzFTsxmeJyTkg&s=19) | [📄](reports/InfinityPools.md)| 8000 |
 | Panoptic             | Smart contract-AMM  | October 2024    | Cantina Competition | N/A |[📄]() | 4707 |
