@@ -5,7 +5,7 @@ I'm a security researcher highly passionate about cryptography & blockchain secu
 I've experience in ERC20, ERC721, [ERC4626](https://github.com/this-vishalsingh/myblogs/blob/main/ERC4626.md), ERC4337, Lending, AMMs, Proxies, Staking, Restaking, EVM. I am proficient in auditing code in Solidity and am trying to add more frameworks to my portfolio in the future.
 
 #### Background
-Currently studying Electronics & Communication Engineering from India. I like maths, physics, Computer Science and chess.
+Electronics & Communication Engineering. I like maths, physics, Computer Science and chess.
 
 ### Top Protocols Secured
 - [Zerolend](https://zerolend.xyz/)
