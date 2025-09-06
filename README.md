@@ -17,7 +17,7 @@ Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 ### Protocols Secured
 | Project              | Project review type           | Date              | 
 |----------------------|-------------------------------|-------------------|
-| Geneius Foundation     | Infrastructure - Solana Bridge  (Rust, typescript, Solidity) | July 2025  | 
+| Genius Foundation     | Infrastructure - Solana Bridge  (Rust, typescript, Solidity) | July 2025  | 
 | Telcoin Network        | Infrastructure - EVM L1 (Rust)  | June 2025      |
 | Succinct           | Infrastructure - zk (Solidity)   | July 2025      | 
 | Nitro Labs / solaxy   | Infrastructure - Solana VM & rollup (Rust)       | June 2025     |
