@@ -1,65 +1,52 @@
 # Portfolio
 ## Intro
-I'm an Independent Security Researcher highly passionate about cryptography & blockchain security with proven track record of consistently uncovering vulnerabilities in wide spectrum of DeFi protocols and performing at multiple audit contests. Before auditing smart contracts, I studied C, Python, Java, Web-Dev for open-source contribution, and during the journey started learning Smart Contract Development & Security.
+Hey! thisvishalsingh here!
 
-I've experience in ERC20, ERC721, [ERC4626](https://github.com/this-vishalsingh/myblogs/blob/main/ERC4626.md), ERC4337, Lending, AMMs, Proxies, Staking, Restaking, EVM. I am proficient in auditing code in Solidity and am trying to add more frameworks to my portfolio in the future.
+I'm an Independent Security Researcher.
 
-#### Background
-Electronics & Communication Engineering. I like maths, physics, Computer Science and chess.
+Solidity, Rust, Go, even Cairo: I find bugs in any language!
 
-### Top Protocols Secured
-- [Zerolend](https://zerolend.xyz/)
-- [Napier](https://x.com/NapierFinance)
-- [StakeUp](https://x.com/StakeUpProtocol)
-- [Sorella Labs](https://sorellalabs.xyz/)
-- [InfinityPools](https://x.com/InfPools)
-- [Panoptic](https://panoptic.xyz/)
-- [LoopFi](https://www.loopfi.xyz/)
-- [Decent](https://x.com/decentxyz)
-- [RadicalxChange](https://x.com/RadxChange)
+Ethereum, Solana, even Bitcoin: I find bugs in any stack!
+
+**Public Profile**
+
+- Cantina x Spearbit: https://cantina.xyz/u/thisvishalsingh
+- Sherlock: https://audits.sherlock.xyz/watson/thisvishalsingh
+
+
+### Protocols Secured
+| Project              | Project review type           | Date              | 
+|----------------------|-------------------------------|-------------------|
+| Geneius Foundation     | Infrastructure - Solana Bridge  (Rust, typescript, Solidity) | July 2025  | 
+| Telcoin Network        | Infrastructure - EVM L1 (Rust)  | June 2025      |
+| Succinct           | Infrastructure - zk (Solidity)   | July 2025      | 
+| Nitro Labs / solaxy   | Infrastructure - Solana VM & rollup (Rust)       | June 2025     |
+| Alchemix v3       | Smart Contract - Solidity | May 2025         | May 2025
+| DefiApp              | Smart contract - Staking (Solidity)       | February 2025         | 
+| FarcasterAttestation | Smart contract/Infrastructure - Solidity     | January 2025        | 
+| AAve v3.3       | Smart contract - Solidity     | January 2025        | 
+| Daoo           | Smart contract - Solidity     | January 2025        |
+| Chorus One / ton-pool-contracts | Staking contract - TON Blockchain(FunC)     | January 2025     | 
+| Stakeup-Bloom-v2           | Smart contract - LST & Lending (Solidity)     | January 2025        |
+| Sorella Labs-Angstrom| Smart contract-AMM  | November 2024    | 
+| InfinityPools        | Smart contract-AMM  | October 2024    | 
+| Panoptic             | Smart contract-AMM  | October 2024    | 
+| Decent - 0ft4626     | Smart contract-Cross Chain | September 2024     | 
+| Zerolend One         | Smart contract-Lending      | August 2024        | 
+| Winnables Raffles    | Smart contract-NFT      | August 2024        | 
+| Tadle                | Smart contract      | August 2024        | 
+| LoopFi               | Smart contract-Lending      | July 2024         | 
+| RadicalxChange       | Smart contract      | March 2024        | 
+| Napier               | Smart contract      | February 2024      | 
+
+
 
 #### Contact me via 
-![Discord](https://img.shields.io/badge/Discord-thisvishalsingh-7289DA?logo=discord&logoColor=white), [X](https://x.com/thisvishalsingh), [Email](mailto:vishal.t.a.k.singh@gmail.com), [Telegram](https://t.me/thisvishalsingh), or via [Linkedin](https://www.linkedin.com/in/vishal-kumar-singh-073aa3222/).
+- ![Discord](https://img.shields.io/badge/Discord-thisvishalsingh-7289DA?logo=discord&logoColor=white)
+- [Telegram](https://t.me/thisvishalsingh)
+- [X](https://x.com/thisvishalsingh),
+- [Email](mailto:vishal.t.a.k.singh@gmail.com) .
 
-## Rust and Rust-variants
-
-| Project              | Project review type           | Date              | Review type         | Result  | Report        | Sloc              |
-|----------------------|-------------------------------|-------------------|---------------------|-----------------|---------|----------|
-| [Mantra-Dex](https://github.com/code-423n4/2024-11-mantra-dex) | Smart contract       |  December 2024      | Code4rena Contest   | Ongoing   |_ | 22268 |
-
-
-
-## Go
-
-| Project              | Project review type | Date              | Review type         | Result          | Report             |Sloc              |
-|----------------------|---------------------|-------------------|---------------------|-------------------|--------------------------------------------|------------------|
-| [Mantra-Chain](https://github.com/code-423n4/2024-11-mantra) | Infrastructure      |  December 2024      | Code4rena Contest   | Ongoing  | _|42898 |
-
-
-
-## Solidity and EVM
-
-| Project              | Project review type | Date              | Review type         | Result             | Report                                 |Sloc              |
-|----------------------|---------------------|-------------------|---------------------|--------------------|----------------------------------------|------------------|
-| Ethereum Protocol    | Infrastructure      | December-January 2024   | Immunifi-Attackathon | _ |[📄]() | TBD |
-| [Chainlink Payment Abstraction](https://github.com/code-423n4/2024-12-chainlink) | Smart contract      |  December 2024      | Code4rena Contest   | _  | _ | 1217 |
-| Collar Protocol Core | Smart contract      | December 2024    | Cantina Competition | TBD |[📄]() | 1469 |
-| Sorella Labs-Angstrom| Smart contract-AMM  | November 2024    | Cantina Competition | 5/303 |[📄]() | 2432 |
-| StakeUp        | Smart contract  | October 2024    | Cantina Competition | [42/363](https://x.com/thisvishalsingh/status/1868198288647967113) | [📄](reports/StakeUp.md)| 2056 |
-| InfinityPools        | Smart contract-AMM  | October 2024    | Cantina Competition | [14/395](https://x.com/thisvishalsingh/status/1866774535057612971?t=RqzGvcbHNZzFTsxmeJyTkg&s=19) | [📄](reports/InfinityPools.md)| 8000 |
-| Panoptic             | Smart contract-AMM  | October 2024    | Cantina Competition | N/A |[📄]() | 4707 |
-| SymbioticFi          | Smart contract-Restaking   | September 2024    | Cantina Competition | N/A| [📄]() | 2509 |
-| Decent - 0ft4626     | Smart contract-Cross Chain | September 2024     | Cantina Private audit       | N/A      | [📄]() | N/A|
-| Zerolend One         | Smart contract-Lending      | August 2024        | Sherlock Contest    | [Rank: 28th](https://audits.sherlock.xyz/contests/466/leaderboard) | [📄](reports/Zerolend-One.md) | 3,027 |
-| Winnables Raffles    | Smart contract-NFT      | August 2024        | Sherlock Contest    | [Rank: 38th ](https://audits.sherlock.xyz/contests/516/leaderboard) | [📄]() | 781 |
-| Tadle                | Smart contract      | August 2024        | CodeHawks Competition | N/A | | 1,229 |
-| LoopFi               | Smart contract-Lending      | July 2024         | Code4arena audit       | [Rank: 58th](https://code4rena.com/audits/2024-07-loopfi) | [📄]()| 4,562 |
-| RadicalxChange       | Smart contract      | March 2024        | Sherlock Contest | [Rank: 3rd 🥉](https://x.com/sherlockdefi/status/1783562986428268607)| [📄](reports/RadicalxChange.md)| 592 |
-| Napier               | Smart contract      | February 2024      | Sherlock Contest | [Rank: 9th](https://x.com/sherlockdefi/status/1771852618324664377) | [📄](reports/napier.md) |2,050 |
-| ThunderLoan          | Smart Contract      | February         | CodeHawks | _ |[📄](reports/Thunder-Loan.md) | 755 |
-| TSwap                | Smart Contract      | February         | CodeHawks | _ |[📄](reports/TSwap.md) | 542 |
-| Puppy Raffle         | Smart Contract      | February         | CodeHawks | _ |[📄](reports/PuppyRaffle.md) | 216 |
-| PasswordStore        | Smart Contract      | February         | CodeHawks | _ |[📄](reports/PasswordStore.md) | 41 |
 
 
 
