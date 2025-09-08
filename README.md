@@ -17,6 +17,10 @@ Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 ### Protocols Secured
 | Project              | Project review type           | Date              | 
 |----------------------|-------------------------------|-------------------|
+| Solayer     | Infrastructure - Solana Bridge  (Rust) |  2025  | 
+| Clementine    | Infrastructure - zk Bridge on Bitcoin  (Rust) |  2025  | 
+| Citrea    | Infrastructure - zkRollup on Bitcoin  (Rust) |  2025  | 
+| Space & Time    | Infrastructure - zk  (Rust, Solidity) |  2025  | 
 | Genius Foundation     | Infrastructure - Solana Bridge  (Rust, typescript, Solidity) | July 2025  | 
 | Telcoin Network        | Infrastructure - EVM L1 (Rust)  | June 2025      |
 | Succinct           | Infrastructure - zk (Solidity)   | July 2025      | 
