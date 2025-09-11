@@ -13,6 +13,11 @@ Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 - Cantina x Spearbit: https://cantina.xyz/u/thisvishalsingh
 - Sherlock: https://audits.sherlock.xyz/watson/thisvishalsingh
 
+#### Contact me via 
+- ![Discord](https://img.shields.io/badge/Discord-thisvishalsingh-7289DA?logo=discord&logoColor=white)
+- [Telegram](https://t.me/thisvishalsingh)
+- [X](https://x.com/thisvishalsingh),
+- [Email](mailto:vishal.t.a.k.singh@gmail.com).
 
 ### Protocols Secured
 | Project              | Project review type           | Date              | 
@@ -45,11 +50,7 @@ Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 
 
 
-#### Contact me via 
-- ![Discord](https://img.shields.io/badge/Discord-thisvishalsingh-7289DA?logo=discord&logoColor=white)
-- [Telegram](https://t.me/thisvishalsingh)
-- [X](https://x.com/thisvishalsingh),
-- [Email](mailto:vishal.t.a.k.singh@gmail.com) .
+
 
 
 
@@ -60,13 +61,8 @@ Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 | Project                             | Type         | Date                    | Link                                    |
 |-------------------------------------|--------------|-------------------------|-----------------------------------------|
 | Redacted                           | -   |  December 2024            | Currently Building the protocol |
-
-
-
-
 | ZK Book                             | Cryptography | January-M1 & Novemeber-M2 2024  | [Rareskills-ZK-book](https://www.rareskills.io/zk-book)  |
 | Smart Contract Security             | Solidity     | February 2024   | [Smart-Contract-Security-&-Auditing-Course](https://github.com/this-vishalsingh/security-and-auditing-full-course/tree/main) |
 | Smart Contract Development          | Solidity     | January 2024   | [Smart-Contract-Development-Course](https://github.com/this-vishalsingh/foundry-full-course-cu) |
-
 | DeFi & Solidity                     | Solidity     | December 2023   | [Solidity](https://cryptozombies.io/) |
 | Ethereum                            | Ethereum     | 2023   | [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) |
