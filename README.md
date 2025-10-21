@@ -4,9 +4,12 @@ Hey! thisvishalsingh here!
 
 I'm an Independent Security Researcher.
 
-Solidity, Rust, Go, Circom, even Cairo: I find bugs in any language!
+Solidity, Rust, Go, Circom, even Cairo: I find bugs in any language! 
 
 Ethereum, Solana, even Bitcoin: I find bugs in any stack!
+
+Skillset:
+Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 
 **Public Profile**
 
@@ -18,6 +21,15 @@ Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 - [Telegram](https://t.me/thisvishalsingh)
 - [X](https://x.com/thisvishalsingh),
 - [Email](mailto:vishal.t.a.k.singh@gmail.com).
+
+### Top Protocols Secured in competitions and its best finding original writeup
+- RadicalxChange - 3rd Rank <img width="15" height="56" alt="image" src="https://github.com/user-attachments/assets/b5634942-f69e-4f15-a23d-8297b7009e0f" /> : [Highest bidder can withdraw his collateral due to a missing check in _cancelAllBids](https://github.com/sherlock-audit/2024-02-radicalxchange-judging/issues/93)
+- Sorella Angstrom - 4th Rank(10xCrit-Patrol team) : [Fees can be stolen by changing the initialized ticks](https://cantina.xyz/code/84df57a3-0526-49b8-a7c5-334888f43940/overview/leaderboard)
+- Geneius Contracts - 6th Rank : [DoS in Solana vai order_hash collision during filling orders](https://cantina.xyz/code/12acc80c-4e4c-4081-a0a3-faa92150651a/overview/leaderboard)
+- Nitro-Labs/Solaxy - 8th Rank : [Stale owner index lets attackers create “ghost” programs and exhaust resources](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/overview/leaderboard)
+- Napier - 9th Rank : [Loss of funds due to not collecting fees](https://github.com/sherlock-audit/2024-06-new-scope-judging/issues/364)
+- FarcasterAttestation 16th Rank: [The lack of ERC-165 compliance leads to integration failures](https://cantina.xyz/code/f9326d2b-bb99-45a9-88c5-94c54aa1823a/overview/leaderboard)
+
 
 ### Protocols Secured
 | Project              | Project review type           | Date              | 
