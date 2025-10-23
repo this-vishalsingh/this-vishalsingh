@@ -1,10 +1,8 @@
 
-## Intro
-Hey! thisvishalsingh here!
+## Overview
+Hey! thisvishalsingh here! I'm an Independent Security Researcher.
 
-I'm an Independent Security Researcher.
-
-Solidity, Rust, Go, Circom, even Cairo: I find bugs in any language! 
+Solidity, Rust, Circom, FunC, even Cairo: I find bugs in any language! 
 
 Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 
