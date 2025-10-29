@@ -11,7 +11,8 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 
 #### ZK Proofs Security Write-ups 
 - [ZK Proofs Security Part1 - Zero To One: ZK security can be grouped into four layers](https://x.com/thisvishalsingh/status/1981717979965346192?t=Vg3Y9NgGSKOR1qjDgiuAGg&s=19)
-- [ZK Security Part2 — Zero to One: Should you pay for security audits for ZK SNARKs?](https://x.com/thisvishalsingh/status/1982101683736805887?t=G09HslKzNs5H87I19tXGAg&s=19)
+- [ZK Proofs Security Part2 — Zero to One: Should you pay for security audits for ZK SNARKs?](https://x.com/thisvishalsingh/status/1982101683736805887?t=G09HslKzNs5H87I19tXGAg&s=19)
+- [ZK Proofs Security Research - Zero to One: Bug Classes - Assigned but not Constrained-1](https://x.com/thisvishalsingh/status/1983290931441766614)
 
 **Public Profile**
 
