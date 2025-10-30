@@ -1,31 +1,43 @@
 
-## Overview
-Hey! thisvishalsingh here! I'm an Independent Security Researcher.
+## Biography
+Hey! thisvishalsingh here! I'm a Security Researcher focused on Blockchain/DLT and Smart Contract Security, active since 2023. 
 
-Solidity, Rust, Circom, FunC, even Cairo: I find bugs in any language! 
+I'm particularly interested in Lending, Privacy(TEEs, MPC, FHE) and ZKP. If you need some code to be reviewed, please reach out on [X](https://x.com/thisvishalsingh) or [telegram](https://t.me/thisvishalsingh).
+
+I am also the creator of ZippelLabs , a ZK proving toolstack for performance and security acceleration for zkVMs to prove Ethereum in real-time.
+
+Solidity, Rust, Go, Circom, FunC, even Cairo: I find bugs in any language! 
 
 Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 
-Skillset:
+##### Skillset:
 Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 
-#### ZK Proofs Security Write-ups 
-- [ZK Proofs Security Part1 - Zero To One: ZK security can be grouped into four layers](https://x.com/thisvishalsingh/status/1981717979965346192?t=Vg3Y9NgGSKOR1qjDgiuAGg&s=19)
-- [ZK Proofs Security Part2 — Zero to One: Should you pay for security audits for ZK SNARKs?](https://x.com/thisvishalsingh/status/1982101683736805887?t=G09HslKzNs5H87I19tXGAg&s=19)
-- [ZK Proofs Security Research - Zero to One: Bug Classes - Assigned but not Constrained-1](https://x.com/thisvishalsingh/status/1983290931441766614)
+### CV
+- Security researcher
+    - Private audits since (Q4 2024 - now) 
+    - competitive audits @Code4rena, @Sherlock, @Cantina & @Codehawks since (Q1 2024 - now)
+
+- Blockchain Developer (Q2 2023 - Q3 2023)
+- Software Developer(AI/Web-dev) (Q2 2021 - Q1 2023)
+- Degrees
+    - Bachelor's of Technolgy in Electronics & Communication Engineering
+    - Bachelor's of Science in Computer Science 
 
 **Public Profile**
 
 - Cantina x Spearbit: https://cantina.xyz/u/thisvishalsingh
 - Sherlock: https://audits.sherlock.xyz/watson/thisvishalsingh
 
-#### Contact me via 
-- ![Discord](https://img.shields.io/badge/Discord-thisvishalsingh-7289DA?logo=discord&logoColor=white)
-- [Telegram](https://t.me/thisvishalsingh)
-- [X](https://x.com/thisvishalsingh),
-- [Email](mailto:vishal.t.a.k.singh@gmail.com).
 
-### Top Protocols Secured in competitions and its best finding original writeup
+#### ZK Proofs Security Articles 
+- [ZK Proofs Security Part1 - Zero To One: ZK security can be grouped into four layers](https://x.com/thisvishalsingh/status/1981717979965346192?t=Vg3Y9NgGSKOR1qjDgiuAGg&s=19)
+- [ZK Proofs Security Part2 — Zero to One: Should you pay for security audits for ZK SNARKs?](https://x.com/thisvishalsingh/status/1982101683736805887?t=G09HslKzNs5H87I19tXGAg&s=19)
+- [ZK Proofs Security Research - Zero to One: Bug Classes - Assigned but not Constrained-1](https://x.com/thisvishalsingh/status/1983290931441766614)
+
+
+
+### Top Protocols Secured in competitions and original writeups
 - RadicalxChange - 3rd Rank <img width="15" height="56" alt="image" src="https://github.com/user-attachments/assets/b5634942-f69e-4f15-a23d-8297b7009e0f" /> : [Highest bidder can withdraw his collateral due to a missing check in _cancelAllBids](https://github.com/sherlock-audit/2024-02-radicalxchange-judging/issues/93)
 - Sorella Angstrom - 4th Rank(10xCrit-Patrol team) : [Fees can be stolen by changing the initialized ticks](https://cantina.xyz/code/84df57a3-0526-49b8-a7c5-334888f43940/overview/leaderboard)
 - Geneius Contracts - 6th Rank : [DoS in Solana vai order_hash collision during filling orders](https://cantina.xyz/code/12acc80c-4e4c-4081-a0a3-faa92150651a/overview/leaderboard)
