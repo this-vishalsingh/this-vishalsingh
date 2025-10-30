@@ -21,7 +21,7 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 - Blockchain Developer (Q2 2023 - Q3 2023)
 - Software Developer(AI/Web-dev) (Q2 2021 - Q1 2023)
 - Degrees
-    - Bachelor's of Technolgy in Electronics & Communication Engineering
+    - Bachelor's of Technology in Electronics & Communication Engineering
     - Bachelor's of Science in Computer Science 
 
 **Public Profile**
@@ -30,7 +30,7 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 - Sherlock: https://audits.sherlock.xyz/watson/thisvishalsingh
 
 
-#### ZK Proofs Security Articles 
+#### ZK Proofs Research Articles 
 - [ZK Proofs Security Part1 - Zero To One: ZK security can be grouped into four layers](https://x.com/thisvishalsingh/status/1981717979965346192?t=Vg3Y9NgGSKOR1qjDgiuAGg&s=19)
 - [ZK Proofs Security Part2 — Zero to One: Should you pay for security audits for ZK SNARKs?](https://x.com/thisvishalsingh/status/1982101683736805887?t=G09HslKzNs5H87I19tXGAg&s=19)
 - [ZK Proofs Security Research - Zero to One: Bug Classes - Assigned but not Constrained-1](https://x.com/thisvishalsingh/status/1983290931441766614)
@@ -38,7 +38,7 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 
 
 ### Top Protocols Secured in competitions and original writeups
-- RadicalxChange - 3rd Rank <img width="15" height="56" alt="image" src="https://github.com/user-attachments/assets/b5634942-f69e-4f15-a23d-8297b7009e0f" /> : [Highest bidder can withdraw his collateral due to a missing check in _cancelAllBids](https://github.com/sherlock-audit/2024-02-radicalxchange-judging/issues/93)
+- RadicalxChange - 3rd Rank <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/b5634942-f69e-4f15-a23d-8297b7009e0f" /> : [Highest bidder can withdraw his collateral due to a missing check in _cancelAllBids](https://github.com/sherlock-audit/2024-02-radicalxchange-judging/issues/93)
 - Sorella Angstrom - 4th Rank(10xCrit-Patrol team) : [Fees can be stolen by changing the initialized ticks](https://cantina.xyz/code/84df57a3-0526-49b8-a7c5-334888f43940/overview/leaderboard)
 - Geneius Contracts - 6th Rank : [DoS in Solana vai order_hash collision during filling orders](https://cantina.xyz/code/12acc80c-4e4c-4081-a0a3-faa92150651a/overview/leaderboard)
 - Nitro-Labs/Solaxy - 8th Rank : [Stale owner index lets attackers create “ghost” programs and exhaust resources](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/overview/leaderboard)
