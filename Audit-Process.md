@@ -60,10 +60,9 @@ The client is entitled to one round of fix reviews provided each fix is in a ded
 After delivering the initial report, our audit team devotes a “Retro Day” to:
 Document Lessons Learned: Summarize any new attack vectors or notable approaches uncovered during the audit.
 
-Expand Our Research Wiki: If we’ve discovered novel vulnerabilities, we add them to our internal knowledge base, ensuring our entire team stays updated.
 
 We also gather feedback from the client to adapt and improve based on these insights ensuring our processes remain flexible, efficient, and aligned with each team’s unique needs.
 
 7. Final Delivery & Optional Publication
 
-We update the report with verified fixes and provide a final, polished PDF report. If desired, we can also coordinate a public audit release via the OpenZeppelin Blog to share results with the broader community, further demonstrating transparency and commitment to security.
+We update the report with verified fixes and provide a final, polished PDF report. 
