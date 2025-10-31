@@ -2,7 +2,7 @@
 ## Biography
 Hey! thisvishalsingh here! I'm a Security Researcher focused on Blockchain/DLT and Smart Contract Security, active since 2023. 
 
-I'm particularly interested in Lending, Privacy(TEEs, MPC, FHE) and ZKP. If you need some code to be reviewed, please reach out on [X](https://x.com/thisvishalsingh) or [telegram](https://t.me/thisvishalsingh).
+I'm particularly interested in DeFI/Lending, Privacy(TEEs, MPC, FHE) and ZKP. If you need some code to be reviewed, please reach out on [X](https://x.com/thisvishalsingh) or [telegram](https://t.me/thisvishalsingh).
 
 I am also the creator of [ZippelLabs](https://x.com/Zippel_Labs) , a ZK proving toolstack for performance and security acceleration for zkVMs to prove Ethereum in real-time.
 
