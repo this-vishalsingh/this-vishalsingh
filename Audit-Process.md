@@ -3,31 +3,32 @@
 1. Audit Preparation & Scope Definition
 
 Before formally starting the audit, align with the client to:
-Confirm the Codebase & Commit Hash: I identify the exact version of the code to audit, avoiding last-minute changes.
+Confirm the Codebase & Commit Hash: Identify the exact version of the code to audit, avoiding last-minute changes.
 
-Review Documentation & Architecture: We assess high-level design choices, usage scenarios, and any existing developer docs.
+Review Documentation & Architecture: assess high-level design choices, usage scenarios, and any existing developer docs.
 
 Discuss Project Goals & Concerns: If needed, hold a “pre-audit call” to clarify any unique business logic or specific issues the client wants examined.
 
-In some cases, we provide an “audit kit” that highlights missing tests or documentation, so the team can resolve these gaps before we start. This helps us focus on deeper security reviews.
+In some cases, highlights missing tests or documentation, so the client team can resolve these gaps before we start. This helps us focus on deeper security reviews.
 
 2. Kick-Off & Audit Planning
 
 Once everything is set, it's time to officially begin:
+
 - Kick-Off Call: We meet with the client’s team to confirm final details, timeline, scope, and any nuances discovered from an initial code review.
 
-- Audit Plan: Our internal lead creates an audit plan outlining the structure and responsibilities for each auditor. This ensures every part of the code is thoroughly reviewed in a systematic, consistent manner.
+- Audit Plan: create an audit plan outlining the structure. This ensures every part of the code is thoroughly reviewed in a systematic, consistent manner.
 
 3. Code Review
 
-At the heart of every OpenZeppelin audit, at least two security auditors are assigned to review the same codebase. This ensures that each line of code undergoes multiple sets of expert eyes, catching issues that might slip past a single reviewer.
+At the heart at least 2x code is reviewed. This ensures that each line of code undergoes multiple sets of eyes, catching issues that might slip past a single reviewer.
 
 Our core security review consists of two key phases:
 1. Thorough Manual Analysis
 
 - Line-by-Line Review: Our security engineers scrutinize every part of the code, looking for logical flaws, edge cases, and business logic errors.
-- Access Control Checks: We confirm role and permission configurations are correctly implemented across all functions.
-Custom Logic & Edge Cases: We pay special attention to project-specific features or assumptions that might introduce unforeseen vulnerabilities.
+- Access Control Checks: confirm role and permission configurations are correctly implemented across all functions.
+- Custom Logic & Edge Cases: We pay special attention to project-specific features or assumptions that might introduce unforeseen vulnerabilities.
 
 2. Strategic Use of Automated Tools
 
@@ -37,17 +38,19 @@ This synergy of human expertise and specialized tools helps us identify both hig
 
 4. Ongoing Communication & Check-Ins
 
-Throughout the audit, we maintain regular check-ins 
+Throughout the audit, maintaining regular check-ins 
 with the client to:
-Clarify Complex Areas: If any portion of the code raises questions, we discuss with the client’s dev team.
-Flag Critical Findings Early: For critical or high-severity issues, we alert the client right away so they can begin planning fixes.
+- Clarify Complex Areas: If any portion of the code raises questions, we discuss with the client’s dev team.
+- Flag Critical Findings Early: For critical or high-severity issues, we alert the client right away so they can begin planning fixes.
 
 5. Reporting & Fix Review
 
 Upon completion, we produce an initial private audit report, detailing:
-All Found Issues: Clearly categorized by severity (Critical, High, Medium, Low, Informational). At OpenZeppelin, we are committed to excellence and it's in our mission to not only spot vulnerabilities but also provide suggestions on the code (Low and Informational issues) to improve the general robustness, quality and readability, ultimately reducing the chance of future bugs.
-Recommendations: Step-by-step guidance on how to remediate each vulnerability.
+- All Found Issues: Clearly categorized by severity (Critical, High, Medium, Low, Informational). I'm committed to excellence and mission to not only spot vulnerabilities but also provide suggestions on the code (Low and Informational issues) to improve the general robustness, quality and readability, ultimately reducing the chance of future bugs.
+
+- Recommendations: Step-by-step guidance on how to remediate each vulnerability.
 Context & Rationale: Why a particular issue matters and how it could be exploited.
+
 Methodology Summary (optional): An overview of our thorough, multi-layered approach for teams that require deeper insights into our assessment and risk analysis processes.
 
 The client is entitled to one round of fix reviews provided each fix is in a dedicated pull request. While each fix has to be submitted as a separate PR for focused, isolated analysis, we always consider the entire codebase to prevent new issues. Once the client addresses these issues, we verify the solutions and finalize the report.
