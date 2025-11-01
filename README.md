@@ -6,7 +6,7 @@ I'm particularly interested in DeFI/Lending, Privacy(TEEs, MPC, FHE) and ZKP( Id
 
 I am also the creator of [ZippelLabs](https://x.com/Zippel_Labs) , a ZK proving toolstack for performance and security acceleration for zkVMs to prove Ethereum in real-time.
 
-Solidity, Rust, Go, Circom, FunC, even Cairo: I find bugs in any language! 
+Solidity, Rust, Go, Circom, FunC, even Cairo: I find bugs in any language with above given intrestrd projects types (Defi-privacy & ZKPs)! 
 
 Ethereum, Solana, even Bitcoin: I find bugs in any stack!
 
