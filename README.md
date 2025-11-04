@@ -47,7 +47,7 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 - FarcasterAttestation 16th Rank: [The lack of ERC-165 compliance leads to integration failures](https://cantina.xyz/code/f9326d2b-bb99-45a9-88c5-94c54aa1823a/overview/leaderboard)
 
 
-### Protocols Secured
+## Protocols Secured
 | Project              | Project review type           | Date              | 
 |----------------------|-------------------------------|-------------------|
 | Solayer     | Infrastructure - Solana Bridge  (Rust) |  2025  | 
@@ -81,13 +81,13 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 | Project              | Project review type             | Date              | Review type         | Result          |
 |----------------------|---------------------------------|-------------------|---------------------|-----------------|
 | Private              | Privacy/Dark Pool AMM-Solidity| October 2025    | Private audit       | Private(5-H, 5-M, 27-L)        |
-| Private              | Zero Knowledge/ID   | October 2025    | Private audit       | Private(1-C,2-H, 3-M, 11-L)        |
-| Redacted       |ZK Payments| October 2025    | Private audit       | Private(1-M, 9-L) |
+| Private              | Zero Knowledge/ID-Rust   | October 2025    | Private audit       | Private(1-C,2-H, 3-M, 11-L)        |
+| Redacted       |Payments/Privacy-Solidity| October 2025    | Private audit       | Private(1-M, 9-L) |
 | Private             | Rust-Cryptography libs(Bls/othes)                | September 2025       |  Private review   | Private review(2-M, 7-L/I) |
-| Private              | Solana program/Privacy                  | September 2025         | Private review      | Private         |
-| Private              | Infrastructure & ZK verifier           | June 2025     | Private review      | Private         |
+| Private              | Solana Payment/Privacy                  | September 2025         | Private review      | Private         |
+| Private              |Rust-Infrastructure & ZK verifier           | June 2025     | Private review      | Private         |
 | Private              | Infrastructure/ZK-Rust             | May 2025     | Private review      | Private         |
-| Private              | DePin                  | April 2025        | Private audit       | Private         |
+| Private              | VM/OS-ZK-Rust                | April 2025        | Private audit       | Private         |
 
 
 
