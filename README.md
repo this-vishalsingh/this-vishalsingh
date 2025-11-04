@@ -48,7 +48,8 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 - FarcasterAttestation 16th Rank: [The lack of ERC-165 compliance leads to integration failures](https://cantina.xyz/code/f9326d2b-bb99-45a9-88c5-94c54aa1823a/overview/leaderboard)
 
 
-## Protocols Secured
+## Protocols Secured 
+### Audit competitions(Public & private)
 | Project              | Project review type           | Date              | 
 |----------------------|-------------------------------|-------------------|
 | Solayer     | Infrastructure - Solana Bridge  (Rust) |  2025  | 
