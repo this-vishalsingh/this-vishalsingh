@@ -83,10 +83,10 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 | Private              | Privacy/Dark Pool AMM-Solidity| October 2025    | Private audit       | Private(5-H, 5-M, 27-L)        |
 | Private              | Zero Knowledge/ID   | October 2025    | Private audit       | Private(1-C,2-H, 3-M, 11-L)        |
 | Redacted       |ZK Payments| October 2025    | Private audit       | Private(1-M, 9-L) |
-| Private             | Cryptography libs(Bls/othes)                | September 2025       |  Private review (2-M, 7-L/I)    | Private review |
+| Private             | Rust-Cryptography libs(Bls/othes)                | September 2025       |  Private review   | Private review(2-M, 7-L/I) |
 | Private              | Solana program/Privacy                  | September 2025         | Private review      | Private         |
 | Private              | Infrastructure & ZK verifier           | June 2025     | Private review      | Private         |
-| Private              | Infrastructure & ZK             | May 2025     | Private review      | Private         |
+| Private              | Infrastructure/ZK-Rust             | May 2025     | Private review      | Private         |
 | Private              | DePin                  | April 2025        | Private audit       | Private         |
 
 
