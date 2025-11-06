@@ -1,8 +1,9 @@
 
 ## Biography
-Hey! thisvishalsingh here! I'm a Security Researcher focused on Blockchain/DLT and Smart Contract Security, active since 2023. 
+Hey!  
+I'm a Security Researcher focused on Blockchain/DLT and Smart Contract Security, active since 2023.
 
-I'm particularly interested in DeFI/Lending, Privacy(TEEs, MPC, FHE) and ZKP( Identity, DeFi, Payments, Prover Networks, zkVMs, Proof Verification, Coprocessors, ZK Rollups, ZK L1s, Cross Chain, ZKML/AI, ZK TLS, Private Compute, ZK in Bitcoin, Voting, CoSNARKs, Attestation Infrastructure). If you need some code to be reviewed, please reach out on [X](https://x.com/thisvishalsingh) or [telegram](https://t.me/thisvishalsingh).
+I'm particularly expert in auditing DeFI/Lending, Privacy(TEEs, MPC, FHE) and ZKP( Identity, DeFi, Payments, Prover Networks, zkVMs, Proof Verification, Coprocessors, ZK Rollups, ZK L1s, Cross Chain, ZKML/AI, ZK TLS, Private Compute, ZK in Bitcoin, Voting, CoSNARKs, Attestation Infrastructure). If you need some code to be reviewed, please reach out on [X](https://x.com/thisvishalsingh) or [telegram](https://t.me/thisvishalsingh).
 
 I am also the creator of [ZippelLabs](https://x.com/Zippel_Labs) , a ZK proving toolstack for performance and security acceleration for zkVMs to prove Ethereum in real-time.
 
