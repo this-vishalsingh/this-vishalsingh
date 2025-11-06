@@ -8,7 +8,7 @@ For audit and contract work, please reach out on [X](https://x.com/thisvishalsin
 Below I have detailed my audit experience, education and articles.
 
 I'm particularly expert in auditing: 
-- ZKP ( Identity, DeFi, Payments, Prover Networks, zkVMs, Proof Verification, Coprocessors, ZK Rollups, ZK L1s, Cross Chain, ZKML/AI, ZK TLS, Private Compute, ZK in Bitcoin, Voting, CoSNARKs, Attestation Infrastructure),
+- ZKPs ( Identity, DeFi, Payments, Prover Networks, zkVMs, Proof Verification, Coprocessors, ZK Rollups, ZK L1s, Cross Chain, ZKML/AI, ZK TLS, Private Compute, ZK in Bitcoin, Voting, CoSNARKs, Attestation Infrastructure),
 
 - Privacy  (TEEs, MPC, FHE).
 
