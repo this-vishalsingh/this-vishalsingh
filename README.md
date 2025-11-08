@@ -89,13 +89,13 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 ### Private Audits
 | Project              | Project review type             | Date              | Review type         | Result          |
 |----------------------|---------------------------------|-------------------|---------------------|-----------------|
-| Private              | Privacy/Dark Pool AMM-Solidity| October 2025    | Private audit       | Private(5-H, 5-M, 27-L)        |
-| Private              | Zero Knowledge/ID-Rust   | October 2025    | Private audit       | Private(1-C,2-H, 3-M, 11-L)        |
-| Redacted       |Payments/Privacy-Solidity| October 2025    | Private audit       | Private(1-M, 9-L) |
-| Private             | Rust-Cryptography libs(Bls/othes)                | September 2025       |  Private review   | Private review(2-M, 7-L/I) |
-| Private              | Solana Payment/Privacy                  | September 2025         | Private review      | Private         |
-| Private              |Rust-Infrastructure & ZK verifier           | June 2025     | Private review      | Private         |
-| Private              | Infrastructure/ZK-Rust             | May 2025     | Private review      | Private         |
+| Private              | Privacy/Dark Pool AMM-Solidity Smart Contract  | October 2025    | Private audit       | Private(5-H, 5-M, 27-L)        |
+| Private              | Infrastructure-zk-Rust    | October 2025    | Private audit       | Private(1-C,2-H, 3-M, 11-L)        |
+| Redacted             |Payment-Solidity| October 2025    | Private audit       | Private(1-M, 9-L) |
+| Private              | Rust-Cryptography libs(Bls/othes)                | September 2025       |  Private review   | Private review(2-M, 7-L/I) |
+| Private              | Payment/Privacy-Solana                  | September 2025         | Private review      | Private         |
+| Private              |Infrastructure-Rust ZK verifier           | June 2025     | Private review      | Private         |
+| Private              | Infrastructure-ZK-Rust             | May 2025     | Private review      | Private         |
 | Private              | VM/OS-ZK-Rust                | April 2025        | Private audit       | Private         |
 
 
@@ -107,6 +107,7 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 
 | Project                             | Type         | Date                    | Link                                    |
 |-------------------------------------|--------------|-------------------------|-----------------------------------------|
+| [Anon-pool-hook](https://github.com/anon-pool-hook/app) | Dark Pool CoW - Using UniswpV4, Phala TEEs, SP1+zkVerify, Eigen AVS | September-2025 |
 | Redacted                           | -   |  December 2024            | Currently Building the protocol |
 | ZK Book                             | Cryptography | January-M1 & Novemeber-M2 2024  | [Rareskills-ZK-book](https://www.rareskills.io/zk-book)  |
 | Smart Contract Security             | Solidity     | February 2024   | [Smart-Contract-Security-&-Auditing-Course](https://github.com/this-vishalsingh/security-and-auditing-full-course/tree/main) |
