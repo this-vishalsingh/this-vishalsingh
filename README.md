@@ -89,14 +89,15 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 ### Private Audits
 | Project              | Project review type             | Date              | Review type         | Result          |
 |----------------------|---------------------------------|-------------------|---------------------|-----------------|
+| NDA             |   Infrastructure-zk-Rust  | November 2025    | Private audit       | Private(1-H, 3-M, 6-L)        |
 | Private              | Privacy/Dark Pool AMM-Solidity Smart Contract  | October 2025    | Private audit       | Private(5-H, 5-M, 27-L)        |
 | Private              | Infrastructure-zk-Rust    | October 2025    | Private audit       | Private(1-C,2-H, 3-M, 11-L)        |
-| Redacted             |Payment-Solidity| October 2025    | Private audit       | Private(1-M, 9-L) |
+| NDA           |Payment-Solidity| October 2025    | Private audit       | Private(1-M, 9-L) |
 | Private              | Rust-Cryptography libs(Bls/othes)                | September 2025       |  Private review   | Private review(2-M, 7-L/I) |
 | Private              | Payment/Privacy-Solana                  | September 2025         | Private review      | Private         |
 | Private              |Infrastructure-Rust ZK verifier           | June 2025     | Private review      | Private         |
 | Private              | Infrastructure-ZK-Rust             | May 2025     | Private review      | Private         |
-| Private              | VM/OS-ZK-Rust                | April 2025        | Private audit       | Private         |
+| Private              | Infrastructure-ZK-Rust                | April 2025        | Private audit       | Private         |
 
 
 
