@@ -108,6 +108,7 @@ Math, ZK, Cryptography, Solidity, Rust, Privacy, Smart Contracts & DLT.
 
 | Project                             | Type         | Date                    | Link                                    |
 |-------------------------------------|--------------|-------------------------|-----------------------------------------|
+|[SuperAudit](https://github.com/SuperAudit/SuperAudit-Plugin] | Tools-AI Security Agent | October 2025-Now | - |
 | [Anon-pool-hook](https://github.com/anon-pool-hook/app) | Dark Pool CoW - Using UniswpV4, Phala TEEs, SP1+zkVerify, Eigen AVS | September-2025 |
 | Redacted                           | -   |  December 2024            | Currently Building the protocol |
 | ZK Book                             | Cryptography | January-M1 & Novemeber-M2 2024  | [Rareskills-ZK-book](https://www.rareskills.io/zk-book)  |
