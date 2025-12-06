@@ -1,13 +1,13 @@
 
 ## Biography
 Hey,
-I'm an expert ZK Security Researcher and the creator of [ZippelLabs](https://x.com/Zippel_Labs), a ZK proving toolstack.
+I'm an expert Solidity smart contracts & ZK Security Researcher and the creator of [ZippelLabs](https://x.com/Zippel_Labs), a ZK proving toolstack.
 
 For audit and contract work, please reach out on [X](https://x.com/thisvishalsingh) or [telegram](https://t.me/thisvishalsingh).
 
 Below I have detailed my audit experience, education and articles.
 
-I'm particularly expert in auditing: 
+I'm particularly expert in auditing Solidity and Rust: 
 - ZKPs ( Identity, DeFi, Payments, Prover Networks, zkVMs, Proof Verification, Coprocessors, ZK Rollups, ZK L1s, Cross Chain, ZKML/AI, ZK TLS, Private Compute, ZK in Bitcoin, Voting, CoSNARKs, Attestation Infrastructure),
 
 - Privacy  (TEEs, MPC, FHE).
