@@ -1,7 +1,7 @@
 
 ## Biography
 Hey,
-I'm an expert Solidity, Rust smart contracts & ZK Security Researcher and the creator of [ZippelLabs](https://x.com/Zippel_Labs) - [zp1](https://github.com/this-vishalsingh/zp1), a ZK proving toolstack.
+I'm an expert Solidity, Rust smart contracts & ZK Security Researcher and the creator of [ZippelLabs](https://x.com/Zippel_Labs) - [ZP1](https://github.com/this-vishalsingh/zp1), a ZK proving toolstack.
 
 For audit and contract work, please reach out on [X](https://x.com/thisvishalsingh) or [telegram](https://t.me/thisvishalsingh).
 
